@@ -1,25 +1,36 @@
-# ReduxSimpleStarter
+# City Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple YouTube Clone built using React.js and Redux Framework
 
-### Getting Started
+### Installing
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+In order to install this on your system please run the following commands:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+git clone https://github.com/pratikthakkar92/city-weather-app.git
+cd city-weather-app
+npm install
+npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Demo Link
 
-```
-> npm install
-> npm start
-```
+I deployed this app on Heroku, the link for the deployed app: 
+
+https://city-weather-app-react.herokuapp.com/
+
+## Built With
+
+* [React](https://reactjs.org/) - Web Framework
+* [Redux](https://redux.js.org/) - Web Framework
+* [NPM](https://www.npmjs.com/) - Dependency Management
+* [VSCode](https://code.visualstudio.com/) - Code Editor
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* [Stephen Grinder](https://twitter.com/ste_grider)
+* [Udemy](www.udemy.com)
